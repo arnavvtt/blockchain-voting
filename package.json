@@ -1,5 +1,5 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "votechain-dapp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -86,7 +86,7 @@
     "globals": "^15.15.0",
     "hardhat": "^2.27.0",
     "hardhat-gas-reporter": "^1.0.10",
-    "lovable-tagger": "^1.1.11",
+    
     "postcss": "^8.5.6",
     "solidity-coverage": "^0.8.16",
     "tailwindcss": "^3.4.17",
